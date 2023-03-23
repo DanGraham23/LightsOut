@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LightsOut
+comment0.text=\r\n\ Simulates\ a\ game\ of\ Lights\ Out,\ where\ a\ 5x5\ grid\ of\ lights\r\n\ are\ created,\ and\ the\ goal\ is\ to\ turn\ on\ all\ the\ lights.\r\n\ Each\ click\ turns\ on/off\ the\ chosen\ light\ and\ its\ four\ adjacent\ lights.\r\n\r\n\ @author\ Daniel\ Graham,\ Aimen\ Harizi,\ Zohaib\ Asif\r\n\ @version\ 3/28/2021\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Runs\ the\ main\ logic\ of\ the\ Lights\ Out\ game\r\n
+comment2.params=i\ j
+comment2.target=void\ switchLights(int,\ int)
+comment2.text=\r\n\ Contains\ the\ logic\ for\ the\ switching\ of\ the\ lights\r\n\ Also\ updates\ move\ counter\r\n\ \r\n\ @param\ i\ the\ i\ coordinate\r\n\ @param\ j\ the\ j\ coordinate\r\n
+comment3.params=i\ j
+comment3.target=void\ lightSwitchHelper(int,\ int)
+comment3.text=\r\n\ Switches\ the\ light\ in\ the\ gameboard\ and\ repaints\ the\ panel\r\n\ \r\n\ @param\ i\ the\ i\ coordinate\r\n\ @param\ j\ the\ j\ coordinate\r\n
+comment4.params=
+comment4.target=void\ cheatMethod()
+comment4.text=\r\n\ Checks\ the\ current\ stack\ to\ print\ out\ the\ current\ way\ to\ win\r\n\ \r\n
+comment5.params=
+comment5.target=void\ resetBoard()
+comment5.text=\r\n\ Resets\ the\ current\ board\ \r\n\ \r\n
+comment6.params=
+comment6.target=void\ checkWin()
+comment6.text=\r\n\ Checks\ to\ see\ if\ the\ game\ is\ over.\ There\ is\ a\ pop\ up\ if\ the\ game\ is\ won\r\n\ \r\n
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.text=\r\n\ Determines\ if\ the\ JButton\ has\ been\ clicked\ on\ gameboard\r\n\ \r\n\ @param\ e\ the\ action\ event\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
