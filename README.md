@@ -1,6 +1,6 @@
 # LightsOut
 
-This is a remake of the game Lights Out create for CSIS225 - Advanced Programming
+This is a remake of the game Lights Out created for CSIS225 - Advanced Programming
 
 authors: Daniel Graham, Aimen Harizi, Zohaib Asif
 
