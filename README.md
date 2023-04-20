@@ -10,3 +10,4 @@ authors: Daniel Graham, Aimen Harizi, Zohaib Asif
 The project is created using Java and Java Swing Components
 
 
+![lightsout](https://user-images.githubusercontent.com/59900510/233239500-80e3d529-1c6f-4f78-9979-b0311defa660.JPG)
